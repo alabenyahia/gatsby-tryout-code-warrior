@@ -1,0 +1,21 @@
+
+
+.projects > h3{
+    font-size: 2.5em;
+    margin-bottom: 1em;
+}
+
+.projectsContainer {
+    display: flex;
+    flex-direction: row;
+    gap: 1.5em;
+    margin-bottom: 2em;
+}
+
+.project {
+    display: flex;
+    flex: 1;
+    justify-content: center;
+}
+
+

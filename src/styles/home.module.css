@@ -1,0 +1,35 @@
+.topheader {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.topheader img {
+    aspect-ratio: 1/1;
+    max-width: 500px;
+}
+
+.header {
+
+}
+
+.header h2 {
+    font-size: 4em;
+}
+
+.header h3 {
+    font-size: 3em;
+    font-weight: 400;
+}
+
+.header p {
+    margin: 24px 0
+}
+
+.btn {
+    background-color: #FF3CAC;
+    padding: 8px 16px;
+    border-radius: 8px;
+    cursor: pointer;
+    display: inline-block;
+}
